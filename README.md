@@ -5,8 +5,8 @@ Ubiquity of Internet and digitization of transportation managementsystems have r
 
 ## On-going Work
 
-[Graph](https://colab.research.google.com/drive/1UKFLVHWih_5y2ASyPt8JodjbHBFNhTId?usp=sharing)
-[Models](https://colab.research.google.com/drive/1e6L5pRSzRLCDc1E5uiNsawmiIrb--fvz?usp=sharing)
+- [Graph](https://colab.research.google.com/drive/1UKFLVHWih_5y2ASyPt8JodjbHBFNhTId?usp=sharing)
+- [Models](https://colab.research.google.com/drive/1e6L5pRSzRLCDc1E5uiNsawmiIrb--fvz?usp=sharing)
 
 ## Contributors
 - [Ankit Mishra](https://github.com/frostrot)
